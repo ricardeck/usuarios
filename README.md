@@ -14,7 +14,7 @@ API Java com Spring Boot e banco de dados Postgresql utilizando Docker para cada
 
 Para entrar na pasta docker execute o seguinte comando:
 	
-    cd cadastroDeUsuarios/docker/
+    cd usuarios/docker/
   
 Já dentro da pasta docker, efetue o seguinte comando:
 
