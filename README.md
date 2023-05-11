@@ -10,7 +10,7 @@ API Java com Spring Boot e banco de dados Postgresql utilizando Docker para cada
 ## Baixando e rodando a aplicação
   Na pasta desejada efetue o seguinte comando:
   
-    git clone https://github.com/ricardeck/cadastroDeUsuarios.git
+    git clone https://github.com/ricardeck/usuarios.git
 
 Para entrar na pasta docker execute o seguinte comando:
 	
